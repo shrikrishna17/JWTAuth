@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+
+# .NET
+bin/
+obj/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# VSCode settings
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
